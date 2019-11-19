@@ -12,8 +12,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1230,
-                    "y": 144,
+                    "x": 974,
+                    "y": 159.5,
                     "ioValues": []
                 }
             ],
@@ -21,5 +21,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": "1.9"
+    "circleSegmentSize": "6.1"
 }
